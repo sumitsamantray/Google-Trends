@@ -1,6 +1,35 @@
 # Google-Trends Project [Link](https://app.powerbi.com/view?r=eyJrIjoiNzMzMmJjYjktOWNlNi00NmIzLWExNTYtYWUxMmZmMDAzM2M3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-After Pesting the codes into Power BI, replace your API Key in the code. If you don't know how to get the key, log in to https://serpapi.com/ and navigate to the account section, where you'll find it.
+To use Google Trends API for fetching a dataset from https://serpapi.com/
+
+Google Trends data on popular keywords across 69 countries. It emphasizes "Data Analyst" as the leading keyword with 55K searches, while "Data Engineer" is rising in popularity. Other notable keywords include "Web Developer," "Software Developer," and "Power BI Developer," with "Power BI Developer" accounting for the highest share at 35.5%. A performance graph tracks keyword trends over several days in October. The data is a snapshot of searches, indicating demand for various technical roles, with detailed analysis available for further tracking.
+
+**Google Trends** regarding keyword performance over a certain period. It highlights the following:
+
+- **Top keywords** such as "Data Analyst," which is associated with **55K searches**.
+- **Rising keywords** like "Data Engineer."
+- A detailed chart tracks keyword performance over several days (e.g., "Data Analyst," "Web Developer," "Software Developer," etc.), with "Power BI Developer" at 35.5%.
+
+If you need deeper insights or visual improvements, let me know!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After Pasting the codes into Power BI, replace your API Key in the code. If you don't know how to get the key, log in to https://serpapi.com/ and navigate to the account section, where you'll find it.
 
 Keyword Limit: Maximum 5 Keywords can be passed.
   
